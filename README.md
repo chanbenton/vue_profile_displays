@@ -1,4 +1,4 @@
-# hatchways-api-test
+# vue_profile_displays
 
 > A Vue.js project created using npm's vue-cli
 
